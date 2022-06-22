@@ -48,9 +48,9 @@ useEffect(()=>{
     <>
  <Navbar bg="dark" variant="dark " style={{height:"60px"}} >
     <Container >
-    <NavLink to="/" className='text-decoration-none text-light mx-3'>Restro</NavLink>
+    <NavLink to="/" className='text-decoration-none text-light mx-3'>ApnaRestro</NavLink>
     <Nav className="me-auto">
-    <NavLink to="/" className='text-decoration-none text-light mx-3'>Add to cart</NavLink>
+    
 
       <NavLink to="/" className='text-decoration-none text-light'>Home</NavLink>
      
